@@ -1,0 +1,40 @@
+0. Categories
+	
+	- Color | orange
+	- Verbs | understand
+	- Calendar | december
+	- Nature | forest
+	- In the city | meusuem
+	- Flowers | daisy
+	- School | pencil
+	- Beach | umbrella
+	- Music | folk
+	- Clothes | Skirt
+	- Film | Catwoman
+	- Food | Salsa
+
+1. All English
+
+	https://github.com/dwyl/english-words/blob/master/words_alpha.txt
+
+2. Corner cases
+
+	-> "____"
+	-> "_oo_"
+
+['woof', 'poor', 'food', 'coof', 'poot', 'jook', 'boot', 'wool', 'look', 'hood', 'coop', 'took', 'pooa', 'coon', 'goog', 'boos', 'sool', 'doom', 'yoop', 'hoon', 'fool', 'poof', 'coom', 'foot', 'bood', 'soot', 'goon', 'joon', 'mool', 'woom', 'pood', 'roon', 'loon', 'gook', 'nook', 'coot', 'soom', 'pooh', 'moot', 'hoom', 'moon', 'bool', 'gool', 'dook', 'loop', 'oooo', 'moos', 'toop', 'tool', 'poop', 'rook', 'goop', 'noon', 'boom', 'boon', 'zool', 'book', 'toon', 'hoot', 'pook', 'moop', 'roof', 'doon', 'sook', 'loob', 'boob', 'mood', 'pool', 'moor', 'rool', 'hoof', 'roop', 'wood', 'boor', 'zoos', 'zoom', 'zoon', 'loom', 'hook', 'boof', 'poon', 'hool', 'cool', 'woon', 'coos', 'kook', 'good', 'toot', 'woos', 'root', 'dool', 'joom', 'rood', 'cook', 'hoop', 'door', 'loot', 'doob', 'goos', 'noop', 'goof', 'loof', 'lood', 'toom', 'yook', 'loos', 'room', 'soon']
+
+	-> [l, p, m, n, t, d, k, b]
+
+3. Wikipedia word frequency
+
+	https://github.com/IlyaSemenov/wikipedia-word-frequency/tree/master/results
+
+4. Test cases 
+
+	book
+	pumpkin
+	
+
+
+
